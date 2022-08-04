@@ -1,0 +1,17 @@
+{
+  "name": "cv-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
